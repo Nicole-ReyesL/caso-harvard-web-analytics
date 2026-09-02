@@ -1,0 +1,8 @@
+*.pptx
+*.docx
+~$*
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
